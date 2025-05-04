@@ -1,0 +1,22 @@
+{
+  "ver": 1000,
+  "lang": "Français",
+  "kvs": {
+    "page-title": "Participation",
+    "page-description": "Tout détenteur de jetons Fair devient automatiquement membre de Fair DAO. Si vous disposez de temps libre, vous pouvez également participer au développement et à l'exploitation du projet Fair DAO.",
+    "worker-items": [
+      {
+        "name": "Rejoindre Fair DAO",
+        "des": "Vous devenez automatiquement membre de Fair DAO en détenant des jetons Fair."
+      },
+      {
+        "name": "Obtenir des jetons",
+        "des": "Achetez via la plateforme SunPump ou demandez-les à des détenteurs existants."
+      },
+      {
+        "name": "Contribuer au projet",
+        "des": "Si vous êtes développeur, designer UI, traducteur, etc., votre participation au développement et à l'exploitation de Fair DAO est la bienvenue."
+      }
+    ]
+  }
+}

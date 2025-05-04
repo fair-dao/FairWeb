@@ -1,2 +1,1 @@
-# FairWeb
-FAIR DAO Website
+Official Website

@@ -1,0 +1,30 @@
+{
+  "ver": 1000,
+  "lang": "en",
+  "kvs": {
+    "page-title": "FAIR Protocol Whitepaper",
+    "page-description": "A Fair, Transparent, Decentralized Next-Generation Token Protocol",
+    "items": [
+      {
+        "name": "Vision",
+        "detail": "With the continuous development of open-source communities, WEB3 ecosystems, and the blockchain industry, FAIR DAO - a decentralized autonomous organization - has emerged. Committed to transparency and fairness, we aim to create a trustworthy platform where scams have no place, enabling free and fair transactions."
+      },
+      {
+        "name": "Governance",
+        "detail": "FAIR token is a fully fair token publicly launched on Tron Network's SunPump platform without any presale or allocation mechanisms. Holders can stake tokens for proposal voting. Participants can stake FAIR tokens to list open-source applications on FairBox ecosystem market for user consumption. Revenue supports DAO development, operations, charitable donations, and token buyback/burn."
+      },
+      {
+        "name": "Token Launch",
+        "detail": "FAIR token was fairly launched via Tron Network's SunPump platform - no presale or team allocation. It enables decentralized governance and can be used for ecosystem transactions, collateral, tipping, and gifting."
+      },
+      {
+        "name": "Distribution",
+        "detail": "Complete equality - no presale or allocations."
+      },
+      {
+        "name": "Disclaimer",
+        "detail": "FAIR DAO is a decentralized organization comprising all FAIR token holders. It is not a legal entity nor centrally managed. FAIR token has no inherent utility pre-launch and represents no claims to real-world assets. Holders should expect no returns - FAIR is a meme coin with no intrinsic value."
+      }
+    ]
+  }
+}

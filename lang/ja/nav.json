@@ -1,0 +1,27 @@
+{
+  "ver": 1000,
+  "lang": "日本語",
+  "kvs": {
+    "page-title": "FAIR DAO | 分散型自律組織",
+    "page-des": "FAIR DAOは透明なDAOです。ユーザー、開発者、デザイナー、$FAIR保有者はガバナンスに参加し、エコシステムを構築し、持続的な発展を推進して共有利益を実現できます。",
+    "code-license": "コードライセンス: ",
+    "code-edit": "ページ編集",
+    "content-license": "コンテンツライセンス: ",
+    "nav-items-bak": [
+      {
+        "_name": "オープンソース",
+        "_link": "index.html?page=opensource"
+      }
+    ],
+    "nav-items": [
+      {
+        "name": "参加",
+        "_link": "/contributor.html"
+      },
+      {
+        "name": "白書",
+        "_link": "/whitepaper.html"
+      }
+    ]
+  }
+}

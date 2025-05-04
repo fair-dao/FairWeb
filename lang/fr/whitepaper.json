@@ -1,0 +1,30 @@
+{
+  "ver": 1000,
+  "lang": "fr",
+  "kvs": {
+    "page-title": "Livre Blanc du Protocole FAIR",
+    "page-description": "Protocole de jeton nouvelle génération équitable, transparent et décentralisé",
+    "items": [
+      {
+        "name": "Vision",
+        "detail": "Avec le développement continu des communautés open source, des écosystèmes WEB3 et de la blockchain, FAIR DAO - organisation autonome décentralisée - vise à créer une plateforme de transaction équitable et transparente sans arnaques."
+      },
+      {
+        "name": "Gouvernance",
+        "detail": "Le jeton FAIR, lancé équitablement sur SunPump (Tron), permet le vote par staking. Les participants peuvent lister des applications sur FairBox. Les revenus financent le développement DAO, les dons et le rachat de jetons."
+      },
+      {
+        "name": "Émission",
+        "detail": "FAIR a été lancé sans présale ni allocation d'équipe. Utilisable pour la gouvernance, les transactions, les garanties et les pourboires."
+      },
+      {
+        "name": "Distribution",
+        "detail": "Égalité totale - aucune présale ou allocation préalable."
+      },
+      {
+        "name": "Avertissement",
+        "detail": "FAIR DAO n'est pas une entité légale. Le jeton FAIR n'a aucune utilité inhérente pré-lancement et ne représente aucun actif réel. C'est un jeton meme sans valeur intrinsèque."
+      }
+    ]
+  }
+}

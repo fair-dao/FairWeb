@@ -1,0 +1,22 @@
+{
+  "ver": 1000,
+  "lang": "English",
+  "kvs": {
+    "page-title": "Participate",
+    "page-description": "Any individual holding Fair tokens is automatically a member of Fair DAO. If you have spare time, you can also participate in the development and operation of the Fair DAO project.",
+    "worker-items": [
+      {
+        "name": "Join Fair DAO",
+        "des": "You automatically become a member of the Fair DAO organization by holding Fair tokens."
+      },
+      {
+        "name": "Obtain Fair Tokens",
+        "des": "Purchase through the SunPump launch platform or request them from existing holders."
+      },
+      {
+        "name": "Contribute to Development & Operations",
+        "des": "If you are a programmer, UI designer, translator, etc., we welcome your participation in the development and operation of the Fair DAO project."
+      }
+    ]
+  }
+}

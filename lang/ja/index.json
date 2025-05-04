@@ -1,0 +1,45 @@
+{
+  "ver": 1000,
+  "lang": "日本語",
+  "kvs": {
+    "subtitle": "--- FAIR DAO（透明で分散型の自律組織）",
+    "subdescription": "FAIRトークンはSunPumpプラットフォームで公平に発行され、プレセールなし、追加発行なし、分配計画なし。",
+    "page-title-opensource": "オープンソースプロジェクト",
+    "page-description-opensource": "コードの大部分を公開しています。時間がある方は、ぜひ参加してFAIR DAOの発展に貢献してください。",
+    "dao-1": "分散化と公開ガバナンス",
+    "dao-1-des": "FAIRプロトコルは分散型のグローバルコミュニティによって管理され、すべてのFAIRトークン保有者、開発者、エコシステム参加者がガバナンスにアイデアを提案できます。",
+    "dao-2": "オンチェーン透明性と効率性",
+    "dao-2-des": "FAIR DAOのすべての投票はオンチェーンで生成され、改ざん不可。ガバナンスの公平性、効率性、透明性を確保します。",
+    "dao-3": "プレセールなし、チーム配分なし",
+    "dao-3-des": "全員が平等です。FAIRトークンはSunPumpプラットフォームで発行・取引され、プレセールやチーム配分はありません。",
+    "dao-4": "ステーキングによるエコシステム構築",
+    "dao-4-des": "参加者はFAIRトークンをステーキングし、オープンソースアプリを開発することで、エコシステムの繁栄に貢献します。",
+    "open-items": [
+      {
+        "name": "共有ライブラリ",
+        "des": "FAIR DAO共有ライブラリは、デスクトップ・モバイルアプリ開発用フレームワークで、主要な端末とWebブラウザをサポートします。",
+        "_link": "https://github.com/fair-dao/Lib"
+      },
+      {
+        "name": "エコシステムアプリケーション",
+        "des": "Fair Boxはエコシステムアプリの基盤であり、Tronウォレットとイーサリアムウォレットを統合しています。",
+        "_link": "https://github.com/fair-dao/fairbox"
+      },
+      {
+        "name": "公式ウェブサイト",
+        "des": "現在のウェブサイトのソースコード。",
+        "_link": "https://github.com/fair-dao/FairWeb"
+      },
+      {
+        "name": "スマートコントラクトライブラリ",
+        "des": "FAIR DAOスマートコントラクト集",
+        "_link": "https://github.com/fair-dao/fair-contracts"
+      },
+      {
+        "name": "オープンソースエコシステム集",
+        "des": "FAIR DAO関連のオープンソースプロジェクト集",
+        "_link": "https://github.com/fair-eco"
+      }
+    ]
+  }
+}

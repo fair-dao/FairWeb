@@ -1,0 +1,27 @@
+{
+  "ver": 1000,
+  "lang": "English",
+  "kvs": {
+    "page-title": "FAIR DAO | Decentralized Autonomous Organization",
+    "page-des": "FAIR DAO is a transparent DAO. Users, developers, designers, and $FAIR holders can participate in governance, build the ecosystem, and drive sustainable development for shared benefits.",
+    "code-license": "Code License: ",
+    "code-edit": "Edit Page",
+    "content-license": "Content License: ",
+    "nav-items-bak": [
+      {
+        "_name": "Open Source",
+        "_link": "index.html?page=opensource"
+      }
+    ],
+    "nav-items": [
+      {
+        "name": "Contribute",
+        "_link": "/contributor.html"
+      },
+      {
+        "name": "Whitepaper",
+        "_link": "/whitepaper.html"
+      }
+    ]
+  }
+}

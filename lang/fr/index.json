@@ -1,0 +1,45 @@
+{
+  "ver": 1000,
+  "lang": "Français",
+  "kvs": {
+    "subtitle": "--- FAIR DAO (Organisation Autonome Décentralisée et Transparente)",
+    "subdescription": "Les jetons FAIR sont lancés équitablement sur SunPump, sans prévente, sans émission supplémentaire, et sans plan d'allocation.",
+    "page-title-opensource": "Projets Open Source",
+    "page-description-opensource": "Nous avons ouvert la majorité de notre code. Rejoignez-nous pour contribuer au développement de FAIR DAO.",
+    "dao-1": "Décentralisation et Gouvernance Ouverte",
+    "dao-1-des": "Le protocole FAIR est géré par une communauté mondiale décentralisée. Tous les détenteurs de jetons, développeurs et participants peuvent proposer des idées.",
+    "dao-2": "Transparence et Sécurité sur la Blockchain",
+    "dao-2-des": "Tous les votes de FAIR DAO sont générés sur la blockchain, garantissant l'équité, l'efficacité et la transparence.",
+    "dao-3": "Pas de Prévente, Pas d'Allocation à l'Équipe",
+    "dao-3-des": "Tous égaux. Les jetons FAIR sont émis et échangés sur SunPump sans prévente ni allocation à l'équipe.",
+    "dao-4": "Écosystème Collaboratif par Staking",
+    "dao-4-des": "Les participants construisent des applications open source en stakant des jetons FAIR, pour un écosystème prospère.",
+    "open-items": [
+      {
+        "name": "Bibliothèque Partagée",
+        "des": "Une bibliothèque pour développer rapidement des applications desktop et mobiles, compatibles avec les navigateurs Web.",
+        "_link": "https://github.com/fair-dao/Lib"
+      },
+      {
+        "name": "Applications Écosystème",
+        "des": "Fair Box intègre des portefeuilles Tron et Ethereum comme support d'applications.",
+        "_link": "https://github.com/fair-dao/fairbox"
+      },
+      {
+        "name": "Site Officiel",
+        "des": "Code source du site actuel.",
+        "_link": "https://github.com/fair-dao/FairWeb"
+      },
+      {
+        "name": "Bibliothèque de Contrats Intelligents",
+        "des": "Collection de contrats intelligents FAIR DAO",
+        "_link": "https://github.com/fair-dao/fair-contracts"
+      },
+      {
+        "name": "Collection d'Écosystème Open Source",
+        "des": "Projets open source liés à FAIR DAO",
+        "_link": "https://github.com/fair-eco"
+      }
+    ]
+  }
+}
