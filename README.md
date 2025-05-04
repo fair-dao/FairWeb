@@ -1,0 +1,2 @@
+# FairWeb
+FAIR DAO Website
