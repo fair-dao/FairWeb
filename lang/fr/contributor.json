@@ -1,21 +1,21 @@
-{
+﻿{
   "ver": 1000,
-  "lang": "Français",
+  "lang": "français",
   "kvs": {
     "page-title": "Participation",
-    "page-description": "Tout détenteur de jetons Fair devient automatiquement membre de Fair DAO. Si vous disposez de temps libre, vous pouvez également participer au développement et à l'exploitation du projet Fair DAO.",
+    "page-description": "Toute personne détenant des jetons Fair rejoint automatiquement le FAIR DAO. Si vous avez du temps libre, vous pouvez également participer au développement et à l'exploitation des projets du FAIR DAO.",
     "worker-items": [
       {
-        "name": "Rejoindre Fair DAO",
-        "des": "Vous devenez automatiquement membre de Fair DAO en détenant des jetons Fair."
+        "name": "Rejoindre FAIR DAO",
+        "des": "Vous devenez automatiquement membre de l'organisation FAIR DAO dès que vous possédez des jetons Fair."
       },
       {
-        "name": "Obtenir des jetons",
-        "des": "Achetez via la plateforme SunPump ou demandez-les à des détenteurs existants."
+        "name": "Obtenir des jetons Fair",
+        "des": "Rendez-vous sur la plateforme d'émission <a href='https://sunpump.meme/invite?ref=Wl5GzazB'>SunPump</a> pour acheter, <a href='https://sunpump.meme/token/TU6x2QQoiU6TU6iePvV9Kacv2fADvMT2F6'>Acheter maintenant</a>"
       },
       {
-        "name": "Contribuer au projet",
-        "des": "Si vous êtes développeur, designer UI, traducteur, etc., votre participation au développement et à l'exploitation de Fair DAO est la bienvenue."
+        "name": "Participer au développement et à l'exploitation",
+        "des": "Si vous êtes développeur, concepteur UI, traducteur, etc., nous vous invitons à participer au développement et à l'exploitation des projets du FAIR DAO."
       }
     ]
   }

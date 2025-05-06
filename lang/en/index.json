@@ -1,43 +1,43 @@
-{
+﻿{
   "ver": 1000,
   "lang": "English",
   "kvs": {
-    "subtitle": "--- FAIR DAO (A Transparent and Decentralized Autonomous Organization)",
-    "subdescription": "FAIR tokens are launched fairly on the SunPump platform, with no presale, no additional issuance, and no allocation plans.",
-    "page-title-opensource": "Open-Source Projects",
-    "page-description-opensource": "We have open-sourced most of our code. If you have spare time, join us to promote the growth of FAIR DAO.",
-    "dao-1": "Decentralization and Open Governance",
-    "dao-1-des": "The FAIR protocol is managed by a decentralized global community. All FAIR token holders, developers, and ecosystem participants can contribute ideas and suggestions for governance.",
-    "dao-2": "On-Chain Transparency and Security",
-    "dao-2-des": "All FAIR DAO votes are generated on-chain and cannot be tampered with, ensuring fairness, efficiency, and transparency in governance.",
-    "dao-3": "No Presale, No Team Allocation",
-    "dao-3-des": "Everyone is equal. FAIR tokens are issued and traded on the SunPump platform with no presale mechanism or team allocation.",
-    "dao-4": "Staking-Driven Ecosystem Collaboration",
-    "dao-4-des": "Ecosystem participants build open-source applications by staking FAIR tokens, jointly creating a thriving ecosystem.",
+    "subtitle": "--- FAIR DAO (Fair and Transparent Decentralized Autonomous Organization)",
+    "subdescription": "The FAIR token is fairly launched on the SunPump platform, with no pre-sale, no additional issuance, and no distribution plans.",
+    "page-title-opensource": "Open Source Project",
+    "page-description-opensource": "We have open-sourced most of our code. If you have free time, you can join us to jointly promote the development of FAIR DAO.",
+    "dao-1": "Decentralized, Open Governance",
+    "dao-1-des": "The FAIR protocol is managed by a decentralized global community, where all FAIR token holders, developers, and ecosystem participants can propose ideas and suggestions for community governance.",
+    "dao-2": "On-Chain Transparency, Secure and Efficient",
+    "dao-2-des": "All votes in FAIR DAO are conducted on the blockchain, which cannot be tampered with by anyone, thus ensuring the fairness, efficiency, and transparency of governance.",
+    "dao-3": "No Pre-Sale Mechanism, No Team Allocation",
+    "dao-3-des": "Everyone is equal. The Fair token is issued and traded on the SunPump platform, with no pre-sale mechanism and no team allocation.",
+    "dao-4": "Stake Operations, Build Ecosystem Together",
+    "dao-4-des": "Ecosystem participants build open-source applications and create a prosperous ecosystem by staking Fair tokens.",
     "open-items": [
       {
         "name": "Shared Library",
-        "des": "The FAIR DAO Shared Library is a framework for rapid development of desktop and mobile applications, supporting mainstream mobile, PC, and web browsers.",
+        "des": "FAIR DAO Shared Library is a framework for rapidly developing desktop and mobile applications, supporting mainstream mobile devices, PCs, and web browsers.",
         "_link": "https://github.com/fair-dao/Lib"
       },
       {
-        "name": "Ecosystem Application",
-        "des": "Fair Box serves as the carrier for ecosystem applications, integrating Tron Wallet and Ethereum Wallet.",
+        "name": "Eco Apps",
+        "des": "Fair Box serves as the carrier for ecosystem applications, integrating Tron and Ethereum wallets.",
         "_link": "https://github.com/fair-dao/fairbox"
       },
       {
         "name": "Official Website",
-        "des": "Source code of the current website.",
-        "_link": "https://github.com/fair-dao/FairWeb"
+        "des": "Source code for the current website",
+        "_link": "https://github.com/fair-dao/fair-web"
       },
       {
-        "name": "Smart Contract Library",
-        "des": "FAIR DAO Smart Contract Collection",
+        "name": "Smart Contracts",
+        "des": "Collection of FAIR DAO smart contracts",
         "_link": "https://github.com/fair-dao/fair-contracts"
       },
       {
-        "name": "Open-Source Ecosystem Collection",
-        "des": "FAIR DAO Open-Source Ecosystem Collection",
+        "name": "Open Ecosystem",
+        "des": "FAIR DAO open-source ecosystem collection",
         "_link": "https://github.com/fair-eco"
       }
     ]

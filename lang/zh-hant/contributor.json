@@ -1,0 +1,22 @@
+﻿{
+  "ver": 1000,
+  "lang": "中文",
+  "kvs": {
+    "page-title": "參與",
+    "page-description": "任何個人持有Fair代幣即自動加入FAIR DAO，若您有閒暇時間，亦可參與FAIR DAO項目的開發與營運。",
+    "worker-items": [
+      {
+        "name": "加入FAIR DAO",
+        "des": "您只要持有Fair代幣即自動成為FAIR DAO組織的一員。"
+      },
+      {
+        "name": "如何獲得Fair代幣",
+        "des": "可進入<a href='https://sunpump.meme/invite?ref=Wl5GzazB'>SunPump</a>發射平台購買，<a href='https://sunpump.meme/token/TU6x2QQoiU6TU6iePvV9Kacv2fADvMT2F6'>立即購買</a>"
+      },
+      {
+        "name": "如何參與FAIR DAO項目",
+        "des": "若您是程式設計師、UI設計師、翻譯人員等，歡迎您參與FAIR DAO項目開發與營運。"
+      }
+    ]
+  }
+}

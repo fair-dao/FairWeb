@@ -1,0 +1,30 @@
+﻿{
+  "ver": 1000,
+  "lang": "tiếng Việt",
+  "kvs": {
+    "page-title": "Bản Đỏ Fair Protocol",
+    "page-description": "Giảm thiểu rủi ro, minh bạch, tự do và trung lập",
+    "items": [
+      {
+        "name": "Tư tưởng và Tầm nhìn",
+        "detail": "Với sự phát triển ngày càng lớn mạnh của các cộng đồng nguồn mở, sinh thái WEB3 và ngành Blockchain, một tổ chức tự chủ giám sát phi tập trung - FAIR DAO đã hình thành. Chúng tôi hướng tới mục tiêu công khai, minh bạch và bình đẳng, nhằm tạo dựng một môi trường giao dịch tự do đáng tin cậy và công bằng."
+      },
+      {
+        "name": "Khởi đầu",
+        "detail": "Fair là một loại tiền điện tử công bằng, được phát hành công khai trên nền tảng SunPump của Tron Network mà không có bất kỳ giai đoạn bán trước hoặc phân phối. Người sở hữu Fair có thể tham gia vào quá trình đề xuất và bỏ phiếu bằng cách chất lượng token, các thành viên trong hệ thống có thể cung cấp ứng dụng nguồn mở lên thị trường FairBox thông qua việc chất lượng Fair, để người dùng FairBox có thể sử dụng."
+      },
+      {
+        "name": "Phân phối Tiền Điện Tử",
+        "detail": "Fair (Địa chỉ hợp đồng: TU6x2QQoiU6TU6iePvV9Kacv2fADvMT2F6) đã được phát hành một cách công bằng trên mạng lưới Tron tại nền tảng Meme phát hành SunPump, không có bán trước, không phân phối nội bộ, được sử dụng để quản lý phi tập trung và cũng có thể được sử dụng cho các hoạt động tiêu dùng, bảo lãnh, tip, quà tặng trong hệ sinh thái."
+      },
+      {
+        "name": "Phân phối Chung Khoản",
+        "detail": "Mọi người đều được đối xử bình đẳng, không có bán trước hoặc phân phối riêng tư nào."
+      },
+      {
+        "name": "Thừa nhận Rủi Ro",
+        "detail": "FAIR DAO là một tổ chức tự chủ phi tập trung bao gồm tất cả những người sở hữu FAIR. FAIR DAO không phải là một thực thể pháp lý và cũng không quản lý tập trung nguồn cung cấp của FAIR. FAIR không có tính hữu ích cốt lõi trước khi được phát hành, không biểu hiện quyền sở hữu về bất kỳ tài sản thế giới thật hoặc tài sản tài chính nào, cũng không cung cấp hoặc đảm bảo giá trị hồi báo. Người sở hữu FAIR không nên mong đợi bất kỳ yêu cầu hoặc hồi báo nào. FAIR là một loại tiền điện tử thuộc mô típ, không có giá trị cốt lõi, nội tại hoặc giá trị đầu tư."
+      }
+    ]
+  }
+}

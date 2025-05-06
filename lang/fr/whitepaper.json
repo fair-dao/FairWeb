@@ -1,29 +1,29 @@
-{
+﻿{
   "ver": 1000,
-  "lang": "fr",
+  "lang": "français",
   "kvs": {
-    "page-title": "Livre Blanc du Protocole FAIR",
-    "page-description": "Protocole de jeton nouvelle génération équitable, transparent et décentralisé",
+    "page-title": "Fair Protocol Whitepaper",
+    "page-description": "Un protocole de jeton décentralisé, transparent et équitable pour la prochaine génération.",
     "items": [
       {
-        "name": "Vision",
-        "detail": "Avec le développement continu des communautés open source, des écosystèmes WEB3 et de la blockchain, FAIR DAO - organisation autonome décentralisée - vise à créer une plateforme de transaction équitable et transparente sans arnaques."
+        "name": "Philosophie et Vision",
+        "detail": "Avec le développement continu de la communauté open source, de l'écosystème WEB3 et de l'industrie blockchain, une organisation autonome décentralisée - FAIR DAO - est apparue. Nous visons l'ouverture, la transparence et la justice pour créer une plateforme commerciale libre, fiable et équitable où les escrocs n'ont aucune chance."
       },
       {
-        "name": "Gouvernance",
-        "detail": "Le jeton FAIR, lancé équitablement sur SunPump (Tron), permet le vote par staking. Les participants peuvent lister des applications sur FairBox. Les revenus financent le développement DAO, les dons et le rachat de jetons."
+        "name": "Modèle de Gouvernance",
+        "detail": "Le token Fair est un jeton équitable, lancé publiquement sur la plateforme SunPump du réseau Tron sans aucune prévente ou mécanisme d'allocation. Les détenteurs de tokens Fair peuvent participer aux votes de proposition par mise en jeu de leurs tokens. Les participants à l'écosystème peuvent mettre en jeu des tokens Fair pour proposer des applications open source sur le marché écologique FairBox, à disposition des utilisateurs de FairBox. Les revenus générés par le marché écologique sont utilisés pour le développement de projets DAO, les opérations quotidiennes de DAO, les activités de donation caritative de DAO ainsi que le rachat et la destruction de tokens Fair."
       },
       {
-        "name": "Émission",
-        "detail": "FAIR a été lancé sans présale ni allocation d'équipe. Utilisable pour la gouvernance, les transactions, les garanties et les pourboires."
+        "name": "Émission de Tokens",
+        "detail": "Le token Fair (adresse contrat: TU6x2QQoiU6TU6iePvV9Kacv2fADvMT2F6) a été émis de manière équitable sur la plateforme SunPump du réseau Tron, sans prévente et sans allocation à l'avance pour le groupe. Il est utilisé pour la gouvernance décentralisée et peut également servir à la consommation, aux garanties, aux dons et aux cadeaux dans l'écosystème."
       },
       {
-        "name": "Distribution",
-        "detail": "Égalité totale - aucune présale ou allocation préalable."
+        "name": "Allocation de Tokens",
+        "detail": "Chaque personne est traitée égalemeent, sans aucune prévente ou allocation spécifique."
       },
       {
-        "name": "Avertissement",
-        "detail": "FAIR DAO n'est pas une entité légale. Le jeton FAIR n'a aucune utilité inhérente pré-lancement et ne représente aucun actif réel. C'est un jeton meme sans valeur intrinsèque."
+        "name": "Disclaimer",
+        "detail": "FAIR DAO est une organisation autonome décentralisée composée de tous les détenteurs de tokens FAIR. FAIR DAO n'est pas un organisme juridique et ne gère pas centralement l'offre de tokens FAIR. Les tokens FAIR n'ont aucune utilité intrinsèque avant leur émission, ne représentent aucun droit sur des actifs réels ou financiers et n'offrent aucune garantie de retour sur la valeur. Les détenteurs de tokens FAIR ne devraient pas s'attendre à ce genre de revendications ou de retours. Le token FAIR est un typical meme coin, sans valeur intrinsèque, valeur interne ou valeur d'investissement."
       }
     ]
   }

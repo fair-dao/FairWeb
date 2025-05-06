@@ -133,13 +133,10 @@ function getLang() {
     let lsLang = localStorage.getItem("lang");
     if (!lang && lsLang) return lsLang;
     if (!lang) {
-        lang = navigator.language;
+        lang = navigator.language.toLowerCase();
     } else {
         lang = lang.toLowerCase();
     }
-    let idx = lang.indexOf('-');
-    if (idx > 0) lang = lang.substring(0, idx);
-   
     if (lang != lsLang) {
         localStorage.setItem("lang", lang);
     }
@@ -205,13 +202,15 @@ document.addEventListener('DOMContentLoaded', async () => {
         XyConfig = await response.json();
         localStorage.setItem("config", JSON.stringify(XyConfig));
     }
-    for (let i = 0; i < XyConfig.TgtLangs.length; i++) {
-        let nav = XyConfig.TgtLangs[i];
+    let foundLang = false;
+    for (let i = 0; i < XyConfig.Langs.length; i++) {
+        let nav = XyConfig.Langs[i];
         if (nav.Name) {
             var el = document.createElement("a");
             el.setAttribute("class", "navbar-item");
-            el.innerHTML = nav.DisplayName;
+            el.innerHTML = nav.RealName;
             el.setAttribute("code", nav.Name);
+            if (nav.Name === lang) foundLang = true;
             elang.appendChild(el);
             el.onclick = function () {
                 let code = this.getAttribute("code");
@@ -233,6 +232,9 @@ document.addEventListener('DOMContentLoaded', async () => {
         });
     });
 
+    if (!foundLang) {
+        lang = XyConfig.Lang.toLowerCase();
+    }
 
     let response = await fetch("/lang/" + lang + "/nav.json");
     com = await response.json();

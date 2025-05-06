@@ -1,0 +1,45 @@
+﻿{
+  "ver": 1000,
+  "lang": "tiếng Việt",
+  "kvs": {
+    "subtitle": "--- HỘI ĐỒNG TỰ THUẬN (FAIR DAO) TRẢ NÓNG",
+    "subdescription": "Tiền mã hóa FAIR được phát hành công bằng trên nền tảng SunPump, không có vòng bán riêng, không tăng cung và không có bất kỳ kế hoạch phân phối nào.",
+    "page-title-opensource": "Dự án Mở",
+    "page-description-opensource": "Chúng tôi đã mở nguồn hầu hết mã nguồn. Nếu bạn có thời gian rảnh, vui lòng tham gia cùng chúng tôi để thúc đẩy sự phát triển của FAIR DAO.",
+    "dao-1": "Trung tâm hóa, quản lý công khai",
+    "dao-1-des": "Hiệp ước FAIR được quản lý bởi một cộng đồng toàn cầu trung tâm hóa. Tài khoản sở hữu FAIR, các nhà phát triển và các thành viên trong hệ sinh thái đều có thể góp ý về việc quản lý cộng đồng.",
+    "dao-2": "Thông tin rõ ràng trên blockchain, an toàn và hiệu quả",
+    "dao-2-des": "Tất cả các cuộc trưng cầu dân ý của FAIR DAO đều được thực hiện trên blockchain, bất kỳ ai cũng không thể thay đổi. Từ đó đảm bảo tính công bằng, hiệu quả và minh bạch của quá trình quản lý.",
+    "dao-3": "Không có cơ chế bán trước, không phân phối cho nhóm",
+    "dao-3-des": "Mọi người đều được bình đẳng. Tiền mã hóa FAIR được giao dịch trên nền tảng SunPump, không có cơ chế bán trước và không có bất kỳ phân phối nào cho nhóm.",
+    "dao-4": "Chạy bằng cách thế chấp, xây dựng hệ sinh thái chung",
+    "dao-4-des": "Các thành viên trong hệ sinh thái tham gia xây dựng ứng dụng nguồn mở bằng cách thế chấp tiền mã hóa FAIR, cùng tạo nên một hệ sinh thái phồn vinh.",
+    "open-items": [
+      {
+        "name": "Thư viện chung",
+        "des": "Thư viện chung của FAIR DAO dùng để phát triển nhanh các ứng dụng máy chủ và ứng dụng di động, hỗ trợ các thiết bị di động chủ lưu, máy tính bàn và trình duyệt web.",
+        "_link": "https://github.com/fair-dao/Lib"
+      },
+      {
+        "name": "Ứng dụng trong hệ sinh thái",
+        "des": "Fair Box là phần tử chứa các ứng dụng trong hệ sinh thái, đã tích hợp wallet Tron và wallet Ethereum.",
+        "_link": "https://github.com/fair-dao/fairbox"
+      },
+      {
+        "name": "Website chính thức",
+        "des": "Nguồn mã của trang web này.",
+        "_link": "https://github.com/fair-dao/fair-web"
+      },
+      {
+        "name": "Thư viện Hợp đồng thông minh",
+        "des": "Tập hợp các hợp đồng thông minh của FAIR DAO.",
+        "_link": "https://github.com/fair-dao/fair-contracts"
+      },
+      {
+        "name": "Tập hợp nguồn mở",
+        "des": "Tập hợp các dự án nguồn mở của FAIR DAO.",
+        "_link": "https://github.com/fair-eco"
+      }
+    ]
+  }
+}
