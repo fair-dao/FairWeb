@@ -75,7 +75,7 @@ function loadData() {
             let itemHtml = html.replace(reg, function (s) {
                 var old = s;
                 s = s.replace(new RegExp(key + "\."), "").replace(/\}/g, "").replace(/\{/g, "");
-                return eval("item."+s);
+                return eval("item." + s);
             });
             newHtml += itemHtml;
         }
@@ -179,7 +179,7 @@ var com = null;
 var container = document.getElementById("container");
 
 
-var enav ;
+var enav;
 var elang;
 
 
@@ -191,17 +191,17 @@ document.addEventListener('DOMContentLoaded', async () => {
     html = await r.text();
     document.getElementById("footer").innerHTML = html;
     enav = document.getElementById("dvnav");
-    elang=enav.querySelector(".lang");
+    elang = enav.querySelector(".lang");
     var XyConfig = null;
-    var strConfig = localStorage.getItem("config");
+    //let strConfig = localStorage.getItem("config");
 
-    if (strConfig) {
-        XyConfig = JSON.parse(strConfig);
-    } else {
-        let response = await fetch("/lang/langs.json");
-        XyConfig = await response.json();
-        localStorage.setItem("config", JSON.stringify(XyConfig));
-    }
+    //if (strConfig) {
+    //    XyConfig = JSON.parse(strConfig);
+    //} else {
+    let langResponse = await fetch("/lang/langs.json");
+    XyConfig = await langResponse.json();
+    localStorage.setItem("config", JSON.stringify(XyConfig));
+    //}
     let foundLang = false;
     for (let i = 0; i < XyConfig.Langs.length; i++) {
         let nav = XyConfig.Langs[i];
