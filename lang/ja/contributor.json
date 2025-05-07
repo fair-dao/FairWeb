@@ -3,19 +3,19 @@
   "lang": "日本語",
   "kvs": {
     "page-title": "参加",
-    "page-description": "Fairトークンを保有する個人は自動的にFAIR DAOに参加します。時間がある方は、FAIR DAOプロジェクトの開発と運営にも参加できます。",
+    "page-description": "個人がFairトークンを保有すると自動的にFAIR DAOに参加できます。時間が許すなら、FAIR DAOプロジェクトの開発と運営にも参加できます。",
     "worker-items": [
       {
         "name": "DAO参加",
-        "des": "Fairトークンを保有しているだけで、自動的にFAIR DAOの一員となります。"
+        "des": "Fairトークンを保有するだけで、自動的にFAIR DAOコミュニティの一員になります。"
       },
       {
-        "name": "トークン入手方法",
-        "des": "<a href='https://sunpump.meme/invite?ref=Wl5GzazB'>SunPump</a>发射平台で購入可能で、<a href='https://sunpump.meme/token/TU6x2QQoiU6TU6iePvV9Kacv2fADvMT2F6'>すぐに購入</a>"
+        "name": "トークン入手",
+        "des": "<a href='https://sunpump.meme/invite?ref=Wl5GzazB'>SunPump</a>プラットフォームで購入可能、<a href='https://sunpump.meme/token/TU6x2QQoiU6TU6iePvV9Kacv2fADvMT2F6'>即時購入</a>"
       },
       {
-        "name": "プロジェクト参加方法",
-        "des": "プログラマー、UIデザイナー、翻訳者などの方は、FAIR DAOプロジェクトの開発と運営への参加を歓迎します。"
+        "name": "開発参加",
+        "des": "プログラマー、UIデザイナー、翻訳者などの方は、FAIR DAOプロジェクトの開発と運営にご参加いただけます。"
       }
     ]
   }

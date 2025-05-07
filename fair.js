@@ -236,7 +236,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         lang = XyConfig.Lang.toLowerCase();
     }
 
-    let response = await fetch("/lang/" + lang + "/nav.json");
+    let response = await fetch("/lang/" + lang + "/public.json");
     com = await response.json();
     let path = location.pathname.replace(/\//g, "-").replace(/\.html/g, "");
     if (path == "-") path = "index";

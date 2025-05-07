@@ -1,43 +1,43 @@
 ﻿{
   "ver": 1000,
-  "lang": "Français",
+  "lang": "fr",
   "kvs": {
-    "subtitle": "--- FAIR DAO ( Organisation Autogérée Décentralisée Transparente)",
-    "subdescription": "Le token FAIR est lancé de manière équitable sur la plateforme SunPump, sans prévente, sans émission supplémentaire et sans aucun plan de distribution.",
-    "page-title-opensource": "Projet Open Source",
-    "page-description-opensource": "Nous avons mis en œuvre le code dans son intégralité. Si vous avez du temps libre, rejoignez-nous pour promouvoir ensemble le développement de FAIR DAO.",
-    "dao-1": "Décentralisé, Gestion Publique",
-    "dao-1-des": "Le protocole FAIR est géré par une communauté mondiale décentralisée, tous les titulaires de jetons FAIR, les développeurs et les participants à l'écosystème peuvent soumettre des idées et des avis sur la gouvernance communautaire.",
-    "dao-2": "Transparence sur la Chaîne, Sécurité et Efficacité",
-    "dao-2-des": "Tous les votes de FAIR DAO sont générés sur la chaîne, et personne ne peut les modifier. Cela garantit ainsi l'égalité, l'efficacité et la transparence de la gouvernance.",
-    "dao-3": "Pas de Prévente, Pas d'Attribution d'Équipe",
-    "dao-3-des": "Chaque personne est égale, le token Fair est émis et tradé sur la plateforme SunPump, sans mécanisme de prévente, et sans aucune attribution d'équipe.",
-    "dao-4": "Opérations en Gage, Construction Conjointe de l'Écosystème",
-    "dao-4-des": "Les participants à l'écosystème construisent des applications open source et cocréent un écosystème prospère en gageant leurs tokens Fair.",
+    "subtitle": "--- FAIR DAO (Organisation autonome décentralisée transparente)",
+    "subdescription": "Le jeton FAIR est lancé de manière équitable sur la plateforme SunPump, avec une très faible commission, aucune vente privée, aucune émission supplémentaire et aucun plan d'allocation.",
+    "page-title-opensource": "Projet open source",
+    "page-description-opensource": "Nous avons mis la plupart de notre code sous licence open source. Si vous avez du temps libre, rejoignez-nous pour promouvoir ensemble le développement de FAIR DAO.",
+    "dao-1": "Décentralisé, gouvernance publique",
+    "dao-1-des": "Le protocole FAIR est géré par une communauté décentralisée à l'échelle mondiale. Tous les détenteurs de jetons FAIR, développeurs et participants à l'écosystème peuvent soumettre des idées et des avis sur la gouvernance de la communauté.",
+    "dao-2": "Transparence et sécurité sur la chaîne, efficace",
+    "dao-2-des": "Tous les votes de FAIR DAO sont effectués sur la chaîne, et personne ne peut les modifier. Cela assure ainsi l'équité, l'efficacité et la transparence de la gouvernance.",
+    "dao-3": "Pas de prévente, aucune répartition d' équipe",
+    "dao-3-des": "Chacun est traité de manière égale. Le jeton Fair est émis et négocié sur la plateforme SunPump, sans mécanisme de prévente et sans répartition d' équipe.",
+    "dao-4": "Opérations avec mise en gage, construction conjointe de l'écosystème",
+    "dao-4-des": "Les participants à l'écosystème construisent des applications open source et cocréent un écosystème prospère en mettant en gage leurs jetons Fair.",
     "open-items": [
       {
-        "name": "Bibliothèque Communique",
-        "des": "La bibliothèque commune de FAIR DAO est utilisée pour le développement rapide de frameworks pour les applications bureau et mobiles, supportant les appareils mobiles mainstream, les PC et les navigateurs Web.",
-        "_link": "https://github.com/fair-dao/Lib"
+        "name": "Bibliothèque partagée",
+        "des": "La bibliothèque partagée de FAIR DAO est utilisée pour développer rapidement des frameworks pour applications bureau et mobiles, compatibles avec les appareils mobiles, PC et navigateurs Web courants.",
+        "_link": "https://github.com/fair-dao/fair-lib"
       },
       {
-        "name": "Applications Écologiques",
-        "des": "Fair Box est le support des applications écologiques, intégrant déjà le portefeuille Tron et le portefeuille Ethereum.",
-        "_link": "https://github.com/fair-dao/fairbox"
+        "name": "Applications écologiques",
+        "des": "Fair Box est le support des applications écologiques, intégrant déjà les portefeuilles Tron et Ethereum.",
+        "_link": "https://github.com/fair-dao/fair-box"
       },
       {
-        "name": "Site Web Officiel",
-        "des": "Le code source actuel du site web",
+        "name": "Site officiel",
+        "des": "Code source actuel du site web",
         "_link": "https://github.com/fair-dao/fair-web"
       },
       {
-        "name": "Bibliothèque de Smart Contracts",
-        "des": "Collection de smart contracts FAIR DAO",
+        "name": "Bibliothèque de contrats intelligents",
+        "des": "Recueil de contrats intelligents FAIR DAO",
         "_link": "https://github.com/fair-dao/fair-contracts"
       },
       {
-        "name": "Ensemble Écologique Open Source",
-        "des": "Ensemble écologique open source de FAIR DAO",
+        "name": "Aggregation d'écosystème open source",
+        "des": "Aggregation de l'écosystème open source FAIR DAO",
         "_link": "https://github.com/fair-eco"
       }
     ]

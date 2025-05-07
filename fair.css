@@ -49,14 +49,12 @@ body {
 }
 
 .logo-title {
-    font-size: 1.35rem;
-    padding: 0 0.5rem;
     font-weight: 900;
     font-family: montserrat;
 }
 
 .hero .title {
-    padding-bottom: 0.75rem;
+    padding-bottom: 0.25rem;
 }
 
 .subtitle {

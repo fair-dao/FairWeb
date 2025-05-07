@@ -2,20 +2,20 @@
   "ver": 1000,
   "lang": "ภาษาไทย",
   "kvs": {
-    "page-title": "ร่วมงาน",
-    "page-description": "บุคคลใดที่ถือโทเคน Fair จะถูกเข้าร่วม FAIR DAO อัตโนมัติ หากคุณมีเวลาว่าง ก็สามารถร่วมพัฒนาและดำเนินการงานกับโปรเจ็กต์ FAIR DAO ด้วย",
+    "page-title": "ร่วมมือกัน",
+    "page-description": "ใคร ๆ ที่มีโทเคน Fair ก็เข้าร่วม FAIR DAO อัตโนมัติ หากคุณมีเวลาว่าง ยังสามารถร่วมพัฒนาและบริหารงานโครงการ FAIR DAO ด้วย",
     "worker-items": [
       {
-        "name": "เข้าร่วม FAIR DAO",
-        "des": "คุณจะกลายเป็นสมาชิกขององค์กร FAIR DAO ทันทีเมื่อถือโทเคน Fair"
+        "name": "เข้าร่วม DAO",
+        "des": "คุณเป็นสมาชิกขององค์กร FAIR DAO อัตโนมัติเพียงมีโทเคน Fair"
       },
       {
-        "name": "รับโทเคน Fair อย่างไร",
-        "des": "คุณสามารถเข้า<a href='https://sunpump.meme/invite?ref=Wl5GzazB'>SunPump</a> แพลตฟอร์มการออกโทเคนเพื่อซื้อ หรือ<a href='https://sunpump.meme/token/TU6x2QQoiU6TU6iePvV9Kacv2fADvMT2F6'>คลิกที่นี่เพื่อซื้อทันที</a>"
+        "name": "ซื้อโทเคน",
+        "des": "เข้า<a href='https://sunpump.meme/invite?ref=Wl5GzazB'>SunPump</a>ซื้อได้ คลิก<a href='https://sunpump.meme/token/TU6x2QQoiU6TU6iePvV9Kacv2fADvMT2F6'>ที่นี่</a>เพื่อซื้อทันที"
       },
       {
-        "name": "ร่วมพัฒนาและดำเนินการงานกับโปรเจ็กต์ FAIR DAO อย่างไร",
-        "des": "หากคุณเป็นโปรแกรมเมอร์, นักออกแบบ UI, ผู้แปลหรืออื่นๆ  เรายินดีต้อนรับให้ร่วมพัฒนาและดำเนินการงานกับโปรเจ็กต์ FAIR DAO"
+        "name": "ร่วมพัฒนา",
+        "des": "หากคุณเป็นโปรแกรมเมอร์ UI ดีไซเนอร์ หรือนักแปล เราเปิดรับทุกคนร่วมพัฒนาและบริหารงานโครงการ FAIR DAO"
       }
     ]
   }

@@ -1,21 +1,21 @@
 ﻿{
   "ver": 1000,
-  "lang": "français",
+  "lang": "Français",
   "kvs": {
     "page-title": "Participation",
-    "page-description": "Toute personne détenant des jetons Fair rejoint automatiquement le FAIR DAO. Si vous avez du temps libre, vous pouvez également participer au développement et à l'exploitation des projets du FAIR DAO.",
+    "page-description": "Toute personne détenant des jetons Fair est automatiquement intégrée à la FAIR DAO. Si vous avez du temps libre, vous pouvez également participer au développement et à l'exploitation des projets de la FAIR DAO.",
     "worker-items": [
       {
-        "name": "Rejoindre FAIR DAO",
-        "des": "Vous devenez automatiquement membre de l'organisation FAIR DAO dès que vous possédez des jetons Fair."
+        "name": "Rejoindre",
+        "des": "En détenant des jetons Fair, vous devenez automatiquement membre de l'organisation FAIR DAO."
       },
       {
-        "name": "Obtenir des jetons Fair",
-        "des": "Rendez-vous sur la plateforme d'émission <a href='https://sunpump.meme/invite?ref=Wl5GzazB'>SunPump</a> pour acheter, <a href='https://sunpump.meme/token/TU6x2QQoiU6TU6iePvV9Kacv2fADvMT2F6'>Acheter maintenant</a>"
+        "name": "Obtenir",
+        "des": "Vous pouvez acheter des jetons sur la plateforme <a href='https://sunpump.meme/invite?ref=Wl5GzazB'>SunPump</a>, <a href='https://sunpump.meme/token/TU6x2QQoiU6TU6iePvV9Kacv2fADvMT2F6'>Acheter maintenant</a>"
       },
       {
-        "name": "Participer au développement et à l'exploitation",
-        "des": "Si vous êtes développeur, concepteur UI, traducteur, etc., nous vous invitons à participer au développement et à l'exploitation des projets du FAIR DAO."
+        "name": "Participer",
+        "des": "Si vous êtes développeur, concepteur UI, traducteur ou autre professionnel, nous vous invitons à participer au développement et à l'exploitation du projet FAIR DAO."
       }
     ]
   }
