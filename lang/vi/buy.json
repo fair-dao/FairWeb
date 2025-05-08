@@ -1,11 +1,11 @@
 ﻿{
   "ver": 1000,
-  "lang": "vi",
+  "lang": "越南语",
   "kvs": {
     "page-title": "Cách Mua",
-    "join-plan": "Có thể tham gia chương trình hoàn tiền, tiết kiệm phí giao dịch",
-    "join-plan-des": "Bạn có thể tham gia chương trình hoàn tiền SunPump thông qua lời mời của FAIR DAO. Trả lại 8% phí giao dịch mỗi giao dịch (chỉ có các giao dịch token đạt tỉ lệ phát hành 100% mới nhận được hoa hồng), thanh toán hoa hồng hai tuần một lần và cần ký hợp đồng hoàn tiền SunPump. <a href='https://sunpump.meme/invite?ref=Wl5GzazB'>Tham gia chương trình</a>",
-    "buy-sale": "Mua hoặc Bán",
-    "buy-sale-des": "Vào trang bán token FAIR của SunPump để đặt lệnh, <a href='https://sunpump.meme/token/TU6x2QQoiU6TU6iePvV9Kacv2fADvMT2F6'>mua hoặc bán ngay</a>"
+    "join-plan": "Tham gia Dự Án Hoàn Lại",
+    "join-plan-des": "Tham gia Dự Án Hoàn Lại SunPump qua invitation của FAIR DAO, mỗi giao dịch hoàn lại 8% phí (chỉ áp dụng cho token chưa đạt 100% tiến độ cong), kết toán hai tuần một lần, cần ký hợp đồng hoàn lại. <a href='https://sunpump.meme/invite?ref=Wl5GzazB'>Tham gia ngay</a>",
+    "buy-sale": "Mua Bán",
+    "buy-sale-des": "Vào trang bán tài khoản FAIR của SunPump để đặt đơn, <a href='https://sunpump.meme/token/TU6x2QQoiU6TU6iePvV9Kacv2fADvMT2F6'>Giao dịch ngay</a>"
   }
 }
