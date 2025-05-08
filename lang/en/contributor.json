@@ -3,18 +3,18 @@
   "lang": "English",
   "kvs": {
     "page-title": "Participate",
-    "page-description": "Anyone holding Fair tokens automatically joins the FAIR DAO. If you have spare time, you can also participate in the development and operation of FAIR DAO projects.",
+    "page-description": "Any individual holding Fair tokens automatically joins the FAIR DAO. If you have spare time, you can also participate in the development and operation of the FAIR DAO projects.",
     "worker-items": [
       {
         "name": "Join DAO",
-        "des": "You automatically become a member of the FAIR DAO organization as long as you hold Fair tokens."
+        "des": "You automatically become a member of the FAIR DAO organization by holding Fair tokens."
       },
       {
         "name": "Get Tokens",
-        "des": "You can purchase them on the <a href='https://sunpump.meme/invite?ref=Wl5GzazB'>SunPump</a> launchpad, <a href='https://sunpump.meme/token/TU6x2QQoiU6TU6iePvV9Kacv2fADvMT2F6'>buy now</a>"
+        "des": "Currently, tokens can only be purchased on the SunPump official website."
       },
       {
-        "name": "Participate",
+        "name": "Participate in Dev",
         "des": "If you are a programmer, UI designer, translator, etc., we welcome you to participate in the development and operation of the FAIR DAO project."
       }
     ]

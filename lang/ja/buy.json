@@ -1,0 +1,11 @@
+﻿{
+  "ver": 1000,
+  "lang": "日本語",
+  "kvs": {
+    "page-title": "購入方法",
+    "join-plan": "手数料を節約、コミッションに参加可能",
+    "join-plan-des": "FAIR DAO の招待で SunPump コミッションプランに参加可能。取引手数料の8%が戻ります（コミッションは發射進捗100%のトークンのみ）。コミッションは2週間に一度決済され、SunPump コミッション契約の締結が必要です。<a href='https://sunpump.meme/invite?ref=Wl5GzazB'>コミッションプランに参加</a>",
+    "buy-sale": "購入または販売",
+    "buy-sale-des": "SunPump FAIR トークン販売ページに入り注文をどうぞ。<a href='https://sunpump.meme/token/TU6x2QQoiU6TU6iePvV9Kacv2fADvMT2F6'>すぐに購入または販売</a>"
+  }
+}

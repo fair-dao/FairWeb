@@ -1,0 +1,11 @@
+﻿{
+  "ver": 1000,
+  "lang": "ไทย",
+  "kvs": {
+    "page-title": "วิธีซื้อ",
+    "join-plan": "ร่วมรับส่วนแบ่งรายได้ เพื่อลดค่าธรรมเนียม",
+    "join-plan-des": "สามารถร่วมแผนแบ่งส่วนรายได้ของ SunPump โดยผ่านการ invited ของ FAIR DAO ได้ รับคืนค่าธรรมเนียม 8% ต่อธุรกรรม (เฉพาะธุรกรรมกับเหรียญที่มี прогрессการปล่อยขายถึง 100% เท่านั้น) และชำระบัญชีทุก 2 สัปดาห์ ต้องเซ็นสัญญากับระบบแบ่งส่วนรายได้ของ SunPump <a href='https://sunpump.meme/invite?ref=Wl5GzazB'>ร่วมแผนแบ่งส่วนรายได้</a>",
+    "buy-sale": "ซื้อหรือขาย",
+    "buy-sale-des": "ไปที่หน้าขาย Token ของ SunPump FAIR แล้วใส่คำสั่ง<buy>, <a href='https://sunpump.meme/token/TU6x2QQoiU6TU6iePvV9Kacv2fADvMT2F6'>ซื้อหรือขายทันที</a>"
+  }
+}

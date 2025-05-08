@@ -3,19 +3,19 @@
   "lang": "越南语",
   "kvs": {
     "page-title": "Tham gia",
-    "page-description": "Bất cứ cá nhân nào sở hữu token Fair tự động gia nhập FAIR DAO. Nếu bạn có thời gian rảnh, bạn còn có thể tham gia phát triển và vận hành dự án FAIR DAO.",
+    "page-description": "Bất cứ người nào sở hữu Tiền điện tử Fair tự động trở thành thành viên của FAIR DAO. Nếu bạn có thời gian rảnh, bạn còn có thể tham gia vào việc phát triển và vận hành dự án FAIR DAO.",
     "worker-items": [
       {
-        "name": "Gia nhập",
-        "des": "Bạn sẽ tự động trở thành một phần tử của tổ chức FAIR DAO chỉ cần sở hữu token Fair."
+        "name": "Gia nhập DAO",
+        "des": "Bạn sẽ tự động trở thành một phần của tổ chức FAIR DAO chỉ cần sở hữu Tiền điện tử Fair."
       },
       {
         "name": "Mua token",
-        "des": "Bạn có thể truy cập <a href='https://sunpump.meme/invite?ref=Wl5GzazB'>SunPump</a> để mua, <a href='https://sunpump.meme/token/TU6x2QQoiU6TU6iePvV9Kacv2fADvMT2F6'>mua ngay</a>"
+        "des": "Hiện tại chỉ có thể mua trên trang chủ của SunPump."
       },
       {
         "name": "Tham gia phát triển",
-        "des": "Nếu bạn là lập trình viên, thiết kế viên UI, nhân viên biên tập hoặc phiên dịch..., chúng tôi mời bạn tham gia dự án FAIR DAO."
+        "des": "Nếu bạn là lập trình viên, nhà thiết kế UI, nhân viên dịch thuật hoặc các nghề nghiệp khác, chúng tôi mời bạn tham gia phát triển và vận hành dự án FAIR DAO."
       }
     ]
   }
